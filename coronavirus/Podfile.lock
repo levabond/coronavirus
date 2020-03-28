@@ -1,0 +1,44 @@
+PODS:
+  - Differentiator (4.0.1)
+  - Hero (1.5.0)
+  - PinLayout (1.8.13)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+
+DEPENDENCIES:
+  - Hero
+  - PinLayout
+  - RxCocoa (~> 5)
+  - RxDataSources
+  - RxSwift (~> 5)
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - Hero
+    - PinLayout
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  PinLayout: e41a50260a76508b7a7fcee8955c76639adc69bc
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+
+PODFILE CHECKSUM: 157237179a16e57dde7461a76b1f47d0418ae365
+
+COCOAPODS: 1.9.0
